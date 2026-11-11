@@ -273,6 +273,7 @@ p { margin: 0 0 1em; }
 .team-card h3 { font-size: 1.05rem; margin: 2px 0 2px; }
 .team-card a { display: block; font-size: .9rem; word-break: break-word; }
 .team-role { font-size: .85rem; color: var(--muted); margin: 0 0 8px; }
+.team-company { font-size: .9rem; font-weight: 600; margin: 0; }
 .team-card-partner { background: linear-gradient(135deg, #fff, #fff4f4); }
 .team-more { margin-top: 28px; color: var(--muted); }
 
