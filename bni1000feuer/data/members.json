@@ -31,7 +31,6 @@
     {"name": "Marlon Müller", "role": "Immobilienmakler", "company": "Brummelt & Müller Immobilien GmbH", "cat": "immobilien", "phone": "+49 152 03874990", "email": "mueller@bundm-immobilien.de", "web": "bundm-immobilien.de"},
     {"name": "Maurice Pick", "role": "Garten- und Landschaftsbau", "company": "PickBull Garten Design & Service", "cat": "handwerk", "phone": "+49 178 6857386", "email": "PBGarten-Kontakt@outlook.de", "web": "pbgartenundservice.de"},
     {"name": "Michael Klinkhammer", "role": "Finanzierungsvermittler", "company": "R2B Finanzmanufaktur GmbH & Co. KG", "cat": "recht", "phone": "0160 970 855 64", "email": "klinkhammer@r2bfinanz.de", "web": "r2bfinanz.de"},
-    {"name": "Michael Mrowietz", "role": "Non-Profit-Organisation", "company": "DRK-Kreisverband Gelsenkirchen e.V.", "cat": "gesundheit", "phone": "0209 98383451", "email": "", "web": "", "neu": true},
     {"name": "Patrick Stepczak", "role": "Hausverwalter", "company": "PST Immobilienmanagement e.K.", "cat": "immobilien", "phone": "0209 35998610", "email": "p.stepczak@pst-immobilien.de", "web": "pst-immobilien.de"},
     {"name": "Philipp Röhrig", "role": "Steuerberater", "company": "Hegemann, Lawitzke & Partner GbR", "cat": "recht", "phone": "0201 84264-0", "email": "roehrig@hlpgbr.de", "web": "hlpgbr.de"},
     {"name": "Ralf Wandhöfer", "role": "Kfz-Gutachter", "company": "KFZ-Sachverständigen Büro Gladbeck", "cat": "auto", "phone": "0209 38640999", "email": "wandhoefer@aol.com", "web": "adautodienst-wandhoefer.de"},
